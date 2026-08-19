@@ -1,0 +1,5 @@
+# Scraper working state — 24MB of per-regency-month blobs, not output.
+.cache/
+__pycache__/
+*.log
+runs.log
